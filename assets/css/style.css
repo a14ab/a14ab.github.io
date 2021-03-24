@@ -183,6 +183,7 @@ thead th{
 thead th a, thead th a:hover{
     color: #FFFFFF;
     text-decoration: none;
+    text-shadow: 1px 1px #000000;
 
 }
 
