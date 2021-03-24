@@ -180,6 +180,11 @@ thead th{
     border-radius: 25px;
 }
 
+thead th a, thead th a:hover{
+    color: #FFFFFF;
+
+}
+
 .footnotes a, .footnotes a:visited{
     color:rgb(216, 215, 167);
 
