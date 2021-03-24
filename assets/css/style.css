@@ -177,11 +177,12 @@ thead th{
     color: #FFFFFF;
     border: 0px solid;
     padding: 5px;
-    border-radius: 15px;
+    border-radius: 4px;
 }
 
 thead th a, thead th a:hover{
     color: #FFFFFF;
+    font-style: none;
 
 }
 
