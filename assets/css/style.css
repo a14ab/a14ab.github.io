@@ -173,11 +173,11 @@ table{
 }
 
 thead th{
-    background-color: rgba(21, 63, 80, 0.644);
+    background-color: #6b613e;
     color: #FFFFFF;
-    border: 2px solid red;
+    border: 0px solid;
     padding: 5px;
-    border-radius: 25px;
+    border-radius: 15px;
 }
 
 thead th a, thead th a:hover{
