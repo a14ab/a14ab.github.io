@@ -1,7 +1,5 @@
 ## juicios ecnómicos
 
-### Menú
-- [Nosotros](#)
-- [Servicios](#)
-- [Contacto](#)
-- [Inmuebles](#)
+| [Nosotros](#) | [Servicios](#) | [Contacto](#) | [Inmuebles](#) |
+| --- | --- | --- | --- |
+|  |  |  |  |
