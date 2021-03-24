@@ -175,6 +175,9 @@ table{
 thead th{
     background-color: rgba(21, 63, 80, 0.644);
     color: #FFFFFF;
+    border: 2px solid red;
+    padding: 5px;
+    border-radius: 25px;
 }
 
 .footnotes a, .footnotes a:visited{
